@@ -34,7 +34,7 @@ body {
   border-bottom: 1px #ddd solid; }
 
 #cats .card:hover {
-  background: #8FB0A9;
+  background: #E97E2E;
   color: #fff; }
 
 @media (max-width: 768px) {
