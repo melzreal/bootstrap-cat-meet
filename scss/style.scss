@@ -4,6 +4,9 @@ $pri-og: #E97E2E;
 $pri-blu: #8FB0A9;
 $pri-ye: #FBD266;
 
+#main-footer {
+    background-color: $pri-blu;
+}
 body {
     margin-top: 105px;
 }
@@ -53,6 +56,16 @@ body {
     widows: 50%;
     margin: auto;
     border-bottom: 1px #ddd solid;
+}
+
+#cats {
+  
+
+    .card:hover {
+        background: $pri-blu;
+        color: #fff;
+    }
+
 }
 
 @media(max-width: 768px){

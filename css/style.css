@@ -1,3 +1,6 @@
+#main-footer {
+  background-color: #8FB0A9; }
+
 body {
   margin-top: 105px; }
 
@@ -29,6 +32,10 @@ body {
   widows: 50%;
   margin: auto;
   border-bottom: 1px #ddd solid; }
+
+#cats .card:hover {
+  background: #8FB0A9;
+  color: #fff; }
 
 @media (max-width: 768px) {
   #showcase {
